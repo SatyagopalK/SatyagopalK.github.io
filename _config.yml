@@ -17,6 +17,11 @@ timezone: Asia/Kolkata
 
 include:
   - _pages
+  - _sass
+  - _includes
+
+sass:
+  style: compressed
 
 plugins:
   - jekyll-paginate
