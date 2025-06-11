@@ -1,17 +1,24 @@
-/* Custom font and size overrides */
-
+/* Georgia font with smaller text size */
 body {
-  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-  font-size: 15px;
-  line-height: 1.7;
+  font-family: Georgia, serif;
+  font-size: 14px;     /* ↓ Decreased from 16px */
+  line-height: 1.7;     /* Optional: slightly tighter line spacing */
   color: #222;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+h1 {
+  font-size: 26px;
+}
+h2 {
+  font-size: 22px;
+}
+h3 {
+  font-size: 19px;
+}
+h4, h5, h6 {
+  font-size: 17px;
 }
 
-/* You can adjust headings size if needed */
-h1 { font-size: 28px; }
-h2 { font-size: 24px; }
-h3 { font-size: 20px; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, serif;
+}
