@@ -33,7 +33,7 @@ plugins:
 
 author:
   name   : "Satya Gopal Kodukula"
-  avatar : "assets/gopal_image.jpgg"
+  avatar : "assets/images/gopal_image.jpg"
   bio    : "Decoding technical concepts, research, and ideas through my lens of learning and curiosity."
   links:
     - label: "Personal Website"
