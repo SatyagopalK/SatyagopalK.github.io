@@ -1,29 +1,28 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Welcome to My Personal Blog"
+date: 2025-06-11
 categories:
-  - blog
+  - intro
 tags:
-  - Jekyll
-  - update
+  - personal
+  - blog
+  - learning
+layout: single
+author_profile: true
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to my personal blog!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This site is my space to explore and share ideas across a wide range of technical topics — from artificial intelligence and data science to research analysis and beyond. I’ll be decoding complex concepts, breaking down research papers, and offering my perspectives on emerging technologies.
 
-Jekyll also offers powerful support for code snippets:
+This isn’t just a blog — it’s my digital notebook. You’ll find deep dives, article reviews, paper summaries, and experimental thoughts, all shared in a way that reflects how I learn and think.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+Stay tuned — this is just the beginning!
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+You can expect content on:
+- AI and Data Science concepts explained simply  
+- Research paper breakdowns  
+- Reflections on technical articles and trends  
+- Experiments, code snippets, and side projects  
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Let’s learn and grow together!
