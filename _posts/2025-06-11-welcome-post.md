@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My Personal Blog"
 date: 2025-06-11
-categories:
+categories :
   - intro
 tags:
   - personal
