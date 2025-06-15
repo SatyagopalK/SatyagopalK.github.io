@@ -13,6 +13,7 @@ tags:
   - coding-best-practices
 layout: single
 author_profile: true
+comments: true
 ---
 ## Introduction: Why This Comparison Matters
 
@@ -61,7 +62,7 @@ Here’s a simple way to think about it:
 
 Let’s look at the memory layout to make this more clear:
 
-![Memory layout: Python list vs NumPy array](/assets/images/numpy-vs-list-memory.png)
+![Memory Layout of NumPy vs List](../assets/images/numpy_vs_list_memory.jpg)
 
 As you can see:
 
@@ -256,7 +257,7 @@ Understanding the *why* behind NumPy helped me code more confidently and work mo
 
 If you're someone who's just starting out or wondering why professionals rarely use lists in data science pipelines, I hope this blog gave you clarity, and maybe even a little head start in your own NumPy journey.
 
-...
+
 
 ## 🙌 We'd Love Your Feedback
 
