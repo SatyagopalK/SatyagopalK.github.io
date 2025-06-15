@@ -62,7 +62,7 @@ Here’s a simple way to think about it:
 
 Let’s look at the memory layout to make this more clear:
 
-![image_1](https://github.com/SatyagopalK/SatyagopalK.github.io/blob/253f95a761e3c3668087de7d9b5ec2778a243656/assets/images/image_1.jpg)
+![NumPy vs Python List](/assets/images/numpy_vs_list_memory.jpg)
 
 
 As you can see:
