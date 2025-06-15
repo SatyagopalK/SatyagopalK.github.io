@@ -62,7 +62,7 @@ Here’s a simple way to think about it:
 
 Let’s look at the memory layout to make this more clear:
 
-![NumPy vs List](assets/images/numpy_vs_list_memory.jpg)
+"assets/images/numpy_vs_list_memory.jpg"
 
 As you can see:
 
